@@ -110,7 +110,7 @@ export default function Dashboard() {
           ))}
         </div>
       )}
-
+      
       {/* ⏳ Loading */}
       {loading && <p>Loading stock data...</p>}
 
